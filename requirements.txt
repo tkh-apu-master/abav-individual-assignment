@@ -22,3 +22,6 @@ imblearn
 pycaret
 chardet
 pandas
+ydata-profiling
+plotly
+wordcloud
