@@ -1,5 +1,2 @@
 .idea
 .vscode
-
-# Very large dataset
-flights.csv
